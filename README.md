@@ -56,7 +56,7 @@ Ensure you have the necessary prerequisites installed:
 
 Clone this repository:
 
-    git clone https://github.com/pvaret/rtl8192cu-fixes.git
+    git clone https://github.com/ivanovp/rtl8192cu-fixes.git
 
 Set it up as a DKMS module:
 
